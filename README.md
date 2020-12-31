@@ -1,7 +1,6 @@
 <h1 style="text-align: center; font-weight: Bold">
     CS50 Final Project - # UnpluggedMyLife
 </h1>
-###### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > This website was developed as my final project for HarvardX CS50 class. 
 
