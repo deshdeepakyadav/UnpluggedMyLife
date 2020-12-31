@@ -28,3 +28,39 @@ This is Digital Detox Portal
 Landing page is staright forward unauthenticated experience. Top menu used to navigate others pages. email subscription used for storing user email list.
 <p>
 <img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/homepage.jpg" width="75%" height="50%" alt="home page"/>
+
+### About Us:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/about-us.jpg" width="75%" height="50%" alt="home page"/>
+
+### Services:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/services.jpg" width="75%" height="50%" alt="home page"/>
+
+### Experiences:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/experience.jpg" width="75%" height="50%" alt="home page"/>
+
+### Events:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/event.jpg" width="75%" height="50%" alt="home page"/>
+
+### Partners:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/partners.jpg" width="75%" height="50%" alt="home page"/>
+
+### Contact:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/contact.jpg" width="75%" height="50%" alt="home page"/>
+
+### Login:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/login.jpg" width="75%" height="50%" alt="home page"/>
+
+### Register:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/register.jpg" width="75%" height="50%" alt="home page"/>
+
+### dashboard:
+
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/dashboard.jpg" width="75%" height="50%" alt="home page"/>
