@@ -64,3 +64,36 @@ Landing page is staright forward unauthenticated experience. Top menu used to na
 ### dashboard:
 
 <img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/dashboard.JPG" width="75%" height="50%" alt="home page"/>
+
+<h2 align="center">Challenges and Learnings</h2>
+
+<p>
+This project was a great learning! Working part time on it for two weeks I have completed it.I went beyond and learned and implmented angular based project here. Researching for every function that I thought to implement was a learning of its own. I have learned something great for each page that I built, if not many things for page. I tried to get the project as close to deployable that I could inside the timeline that I set for myself. That challanged me to think what could go wrong and what could function better in every entry that I did.
+</p>
+
+<h2 align="center">Considerations</h2>
+
+- Layout was based on Web and mobile.
+- I had many other pages to implement, but considering the time needed to implement all, So I'm submitting it as it is. Maybe in the future I can get it to deploy stage.
+
+<h2 align="center">How to Use</h2>
+
+   ```
+   - Clone this repository:
+   $ git clone https://github.com/deshdeepakyadav/UnpluggedMyLife.git
+
+   - Navigate to frontend repository and install requirements:
+   $ npm install
+   
+   - Navigate to RESTFull APIs repository and install requirements:
+   $ pip install -r requirements.txt
+
+   - Execute Front End application:
+   $ ng serve
+   
+   - Execute API application:
+   $ flask run
+
+   ```
+
+Thank you for reading!
