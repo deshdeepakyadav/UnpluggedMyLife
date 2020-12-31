@@ -27,3 +27,4 @@ This is Digital Detox Portal
 <p> 
 Landing page is staright forward unauthenticated experience. Top menu used to navigate others pages. email subscription used for storing user email list.
 <p>
+<img src="https://github.com/deshdeepakyadav/UnpluggedMyLife/blob/main/project-document/homepage.jpg" width="75%" height="50%" alt="home page"/>
