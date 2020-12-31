@@ -20,3 +20,10 @@ This is Digital Detox Portal
 - [Jinja](https://jinja.palletsprojects.com/)
 - [JavaScript](https://www.javascript.com/)
 - [Angular](https://angular.io/)
+
+### Index:
+
+<div style="text-align: justify">
+<p> 
+Landing page is staright forward unauthenticated experience. Top menu used to navigate others pages. email subscription used for storing user email list.
+<p>
